@@ -108,7 +108,7 @@ Based on the analysis, here’s what **job seekers** and **recruiters** can do:
 ## 🚀 Streamlit App
 
 🖥️ Try the **interactive dashboard**:
-**[👉 Launch the App](https://your-streamlit-url.streamlit.app/)**
+**[👉 Launch the App](https://olawale-ayoade-data-science-jo-streamlit-app-ds-jobshome-zcdvcy.streamlit.app)**
 
 ---
 
